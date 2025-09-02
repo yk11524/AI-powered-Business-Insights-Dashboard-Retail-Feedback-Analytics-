@@ -33,3 +33,4 @@ top_products.plot(kind='barh', title='Top Selling Products')
 plt.xlabel("Total Quantity Sold")
 plt.ylabel("Product")
 plt.show()
+
